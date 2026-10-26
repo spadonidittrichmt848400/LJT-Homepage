@@ -15,6 +15,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 
   - PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He.
 - **B.Eng.**, Shanghai Jiao Tong University (2020–2024)
   - Graduated in June 2024.
+  - Previously advised by Professor Junxian He during undergraduate studies.
   - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 ## Research Experience
